@@ -12,9 +12,9 @@ let util = require('util')
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['6281515860089','6281357302007','6288235435804'] // Put your number here
+global.owner = ['6285282996146','6281357302007','6288235435804'] // Put your number here
 global.mods = ['6281357302007','6288235435804'] // Want some help?
-global.prems = ['6281357302007','6288235435804'] // Premium user has unlimited limit
+global.prems = ['6285282996146','6288235435804'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
