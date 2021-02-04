@@ -1,13 +1,13 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
 │ • Smartfren [088235435804]
-│ • Telkomsel [081357302007]
+│ • Telkomsel [085282996146]
 │ • Gopay [081357302007]
 ╰────
 ╭─「 Hubungi 」
-│ > Ingin donasi? Wa.me/6281357302007
+│ > Ingin donasi? Wa.me/6285282996146
 ╰────
-
+*Terima kasih Yang Sudah Berdonasi*
 Ini *#caranya untuk Donasi*
 *Cara Donasi*:
 1.) Beli ke pulsa/ konter terdekat semisal Indomaret
